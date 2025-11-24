@@ -1,0 +1,12 @@
+.side {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+.side img {
+  width: 45%;
+  border-radius: 6px;
+}
+.side .text {
+  width: 50%;
+}

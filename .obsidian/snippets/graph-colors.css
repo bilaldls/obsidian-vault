@@ -1,0 +1,37 @@
+/* ================================
+   COULEURS DES NOEUDS PAR DOSSIER
+   ================================ */
+
+/* Cours = bleu */
+.node[data-path^="01_Cours"] {
+  --color-fill: #3d8bfd !important;
+  --color-fill-hover: #70a8ff !important;
+  --color-stroke: #1e6cf2 !important;
+}
+
+/* Concepts = vert */
+.node[data-path^="03_Concepts"] {
+  --color-fill: #38c172 !important;
+  --color-fill-hover: #62d89c !important;
+  --color-stroke: #2f9d5f !important;
+}
+
+/* Axes transverses = rouge */
+.node[data-path^="02_Axes_transverses"] {
+  --color-fill: #e3342f !important;
+  --color-fill-hover: #f26a64 !important;
+  --color-stroke: #c11c18 !important;
+}
+
+/* Exemples concrets = orange */
+.node[data-path^="04_Exemples_concrets"] {
+  --color-fill: #f6993f !important;
+  --color-fill-hover: #ffb066 !important;
+  --color-stroke: #de6d00 !important;
+}
+
+/* Inbox = gris */
+.node[data-path^="00_Inbox"] {
+  --color-fill: #6c757d !important;
+  --color-stroke: #495057 !important;
+}
