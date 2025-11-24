@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automatisation.md",
+                "file": "Test N8N.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Automatisation"
+              "title": "Test N8N"
             }
           },
           {
@@ -250,10 +250,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b20a8ff5342e0cc9",
+  "active": "7decda31d9e2a5ea",
   "lastOpenFiles": [
-    "01_Cours/Test N8N.md",
     "Automatisation.md",
+    "Test N8N.md",
     "01_Cours/Maths_SVME.md",
     "Obsidian",
     "00_Inbox/Distributed Training and Parallelism.md",

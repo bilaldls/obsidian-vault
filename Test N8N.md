@@ -24,7 +24,8 @@
 ### 5. Connexions avec d'autres cours
 - Ce cours est lié à :
   - [[Automatisation]]
-  - 
+  - [[Natural Language Processing Introduction]]
+  - [[Attention Mechanism]]
   
 
 - Axes transverses concernés :
