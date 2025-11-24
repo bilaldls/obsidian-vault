@@ -4,6 +4,7 @@
 ### 1. Définition intuitive
 -  Test pour l'automatisation N8N
 - je rajoute cette ligne au test 5 
+- je rajoute cette ligne au tesst 6 
 
 ### 2. Définition formelle (si applicable)
 - 
